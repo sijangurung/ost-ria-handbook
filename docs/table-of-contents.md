@@ -1,4 +1,4 @@
-# Table of contents
+# RIA Handbook
 
 ## For new employees
 - [Setup you computer](setup-your-computer.md)
