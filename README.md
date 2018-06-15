@@ -1,5 +1,10 @@
 # RIA Handbook
 
+This is a knowledge base for RIA. Others may feel free to steal what you find useful.
+
+[Table of contents](docs/table-of-contents.md)
+
+
 ## Planned contents
 
 - Docker
