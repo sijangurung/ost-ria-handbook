@@ -1,12 +1,22 @@
 # RIA Handbook
 
-## Contribution guidelines
-Contribute via pull requests.
+## Planned contents
 
-## Writing guidelines
+- Docker
+- Cloud
+- Rules and regulations (UU, GDPR, ethics)
+- Browser vs server
+- Analyzing thirdparty libraries
+
+## Contribution guidelines
+
+1. Contribute via pull requests.
+2. This is public information. Do not include passwords and such.
+
+### Writing guidelines
 Be aware of this when writing for the RIA Handbook.
 
-### Tone and content
+#### Tone and content
 
 - Be conversational and friendly without being frivolous.
 - Don't pre-announce anything in documentation.
@@ -14,7 +24,7 @@ Be aware of this when writing for the RIA Handbook.
 - Write accessibly.
 - Write for a global audience.
 
-### Language and grammar
+#### Language and grammar
 
 Use second person: "you" rather than "we."
 
@@ -23,7 +33,7 @@ Use second person: "you" rather than "we."
 - Put conditional clauses before instructions, not after.
 - For usage and spelling of specific words, see the word list.
 
-### Formatting, punctuation, and organization
+#### Formatting, punctuation, and organization
 
 Use sentence case for document titles and section headings.
 
@@ -35,7 +45,7 @@ Use sentence case for document titles and section headings.
 - Put UI elements in bold.
 - Use unambiguous date formatting.
 
-### Images
+#### Images
 
 - Use SVG files or crushed PNG images.
 - Provide alt text.
