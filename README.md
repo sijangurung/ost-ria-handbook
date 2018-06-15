@@ -17,6 +17,7 @@ This is a knowledge base for RIA. Others may feel free to steal what you find us
 
 1. Contribute via pull requests.
 2. This is public information. Do not include passwords and such.
+3. Try to answer WHY this is important knowledge.
 
 ### Writing guidelines
 Be aware of this when writing for the RIA Handbook.
