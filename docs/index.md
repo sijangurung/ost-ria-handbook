@@ -9,4 +9,6 @@
 
 ## Knowledge base
 
+- [Python](python.md)
+
 ## Frequently asked questions
