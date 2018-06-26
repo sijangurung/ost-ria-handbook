@@ -2,7 +2,7 @@
 
 This is a knowledge base for RIA. Others may feel free to steal what you find useful.
 
-[Table of contents](docs/table-of-contents.md)
+[Table of contents](docs/index.md)
 
 
 ## Planned contents
