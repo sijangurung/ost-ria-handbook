@@ -9,4 +9,6 @@
 
 ## Knowledge base
 
+- [Make](make.md)
+
 ## Frequently asked questions
